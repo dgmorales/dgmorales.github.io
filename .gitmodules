@@ -3,4 +3,4 @@
 	url = https://github.com/dgmorales/cssm.git
 [submodule "talks/cm-pas"]
 	path = talks/cm-pas
-	url = git@github.com:dgmorales/talk-puppet-ansible-salt.git
+	url = https://github.com/dgmorales/talk-puppet-ansible-salt.git
