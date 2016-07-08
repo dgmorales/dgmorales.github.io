@@ -4,3 +4,7 @@
 [submodule "talks/cm-pas"]
 	path = talks/cm-pas
 	url = https://github.com/dgmorales/talk-puppet-ansible-salt.git
+[submodule "talks/ansible-quick"]
+	path = talks/ansible-quick
+	url = https://github.com/dgmorales/talk-ansible-quick-n-dirty.git
+	branch = talk-ansible-short
