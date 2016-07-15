@@ -8,6 +8,6 @@
 	path = talks/ansible-quick
 	url = https://github.com/dgmorales/talk-ansible-quick-n-dirty.git
 	branch = talk-ansible-short
-[submodule "talks/sysadmin-devopsdays-poa"]
+[submodule "sysadmin-devopsdays-poa"]
 	path = talks/sysadmin-devopsdays-poa
 	url = https://github.com/dgmorales/talk-novo-sysadmin-devopsdays-poa
