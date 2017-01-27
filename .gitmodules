@@ -11,3 +11,6 @@
 [submodule "sysadmin-devopsdays-poa"]
 	path = talks/sysadmin-devopsdays-poa
 	url = https://github.com/dgmorales/talk-novo-sysadmin-devopsdays-poa
+[submodule "talks/self-service-it"]
+	path = talks/self-service-it
+	url = https://github.com/dgmorales/talk-self-service-it
