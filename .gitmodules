@@ -14,3 +14,6 @@
 [submodule "talks/self-service-it"]
 	path = talks/self-service-it
 	url = https://github.com/dgmorales/talk-self-service-it
+[submodule "cpbr10"]
+	path = cpbr10
+	url = https://github.com/dgmorales/talk-workshop-ansible
