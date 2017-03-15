@@ -17,3 +17,6 @@
 [submodule "cpbr10"]
 	path = cpbr10
 	url = https://github.com/dgmorales/talk-workshop-ansible
+[submodule "talks/workshop-ansible"]
+	path = talks/workshop-ansible
+	url = https://github.com/dgmorales/talk-workshop-ansible
