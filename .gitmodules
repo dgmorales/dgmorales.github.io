@@ -21,6 +21,6 @@
 	path = talks/workshop-ansible
 	url = https://github.com/dgmorales/talk-workshop-ansible
 [submodule "workshop-ansible-phpexp17"]
-	path = workshop-ansible-phpexp17
+	path = talks/workshop-ansible-phpexp17
 	url = https://github.com/dgmorales/talk-workshop-ansible
 	branch = phpexp
