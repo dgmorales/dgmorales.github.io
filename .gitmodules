@@ -24,3 +24,6 @@
 	path = talks/workshop-ansible-phpexp17
 	url = https://github.com/dgmorales/talk-workshop-ansible
 	branch = phpexp
+[submodule "talks/devopsdays-rj-23"]
+	path = talks/devopsdays-rj-23
+	url = https://github.com/dgmorales/talk-devopsdays-rio-2023-platform-engineering
